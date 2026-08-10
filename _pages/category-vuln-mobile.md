@@ -1,5 +1,5 @@
 ---
-title: "vuln-mobile"
+title: "MOBILE"
 layout: archive
 permalink: /vuln-mobile
 author_profile: true

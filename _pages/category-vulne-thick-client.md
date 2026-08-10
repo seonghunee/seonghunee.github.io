@@ -1,5 +1,5 @@
 ---
-title: "vuln-thick-client"
+title: "THICK CLIENT"
 layout: archive
 permalink: /vuln-thick-client
 author_profile: true

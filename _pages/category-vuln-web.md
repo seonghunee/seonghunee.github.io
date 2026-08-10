@@ -1,5 +1,5 @@
 ---
-title: "vuln-web"
+title: "WEB"
 layout: archive
 permalink: /vuln-web
 author_profile: true
