@@ -5,5 +5,10 @@ search: false
 
 @charset "utf-8";
 
+$doc-font-size: 14px;
+$doc-font-size-medium: $doc-font-size * 1.125;
+$doc-font-size-large: $doc-font-size * 1.25;
+$doc-font-size-x-large: $doc-font-size * 1.375;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
